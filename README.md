@@ -3,9 +3,6 @@
 
 <br>
 
-## 🧑‍🎓 Programmers
-[![](https://github.com/libtv/github-programmers-rank/blob/master/lib/result.svg)](https://github.com/libtv/github-programmers-rank)
-
 <br>
 
 ## How to install
@@ -101,5 +98,3 @@ jobs:
 ![alt](./dist/check.png)
 
 then, result svg files path is "./lib" : 결과물은 lib 폴더에 존재합니다. 
-
-[![](https://github.com/Programmer-may/programmers-rank/blob/master/lib/result.svg)](https://github.com/Programmer-may/programmers-rank)
