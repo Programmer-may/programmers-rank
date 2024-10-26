@@ -8,8 +8,6 @@ on:
     branches: [ "master" ]
   pull_request:
     branches: [ "master" ]
-  schedule:
-    - cron: '0 5 * * 1-5'
   repository_dispatch:
     types: [trigger-from-baekjoonhub] # baekjoonhub 레포지토리에서의 트리거 이벤트
 
